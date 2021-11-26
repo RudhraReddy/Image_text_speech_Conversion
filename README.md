@@ -1,4 +1,4 @@
-# Image_text_speech
+# Image to Text to Speech
 
 Image to text covertion using **pytesseract**.<br />
 Text to Audio convertion using **gTTS** package.
