@@ -1,7 +1,7 @@
 # Image to Text to Speech
 
-Image to text covertion using **pytesseract**.<br />
-Text to Audio convertion using **gTTS** package.
+Image to text conversion using **pytesseract**.<br />
+Text to Audio conversion using **gTTS** package.
 
 - Run ```pip install -r reqirements.txt``` to install all the necessary packages.<br />
 - Run [main.py](main.py) to run the program<br />
